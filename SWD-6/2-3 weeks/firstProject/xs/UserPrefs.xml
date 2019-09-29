@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{B62F40C0-AEC1-480A-ADEF-E4B69FE74049}|Default">
+  <MonoDevelop.Ide.ItemProperties.firstProject PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="firstProject/Controllers/CalculatorController.cs">
+    <Files>
+      <File FileName="firstProject/Program.cs" Line="23" Column="4" />
+      <File FileName="firstProject/Startup.cs" Line="41" Column="33" />
+      <File FileName="firstProject/Controllers/HelloController.cs" />
+      <File FileName="firstProject/Controllers/MessagesController.cs" Line="14" Column="18" />
+      <File FileName="firstProject/Views/Messages/ShowMessage.cshtml" />
+      <File FileName="firstProject/Controllers/CalculatorController.cs" Line="26" Column="58" />
+      <File FileName="firstProject/Views/Shared/_Layout.cshtml" Line="30" Column="41" />
+      <File FileName="firstProject/Views/Calculator/Sum.cshtml" Line="8" Column="123" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="firstProject" expanded="True">
+            <Node name="firstProject" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CalculatorController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Calculator" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
